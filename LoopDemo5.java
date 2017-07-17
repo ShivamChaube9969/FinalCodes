@@ -21,7 +21,7 @@ public class LoopDemo5 {
 				if (j > i) {
 					System.out.print("  ");
 				} else {
-					System.out.print(j + " ");
+					System.out.print(j+ " ");
 				}
 			}
 
